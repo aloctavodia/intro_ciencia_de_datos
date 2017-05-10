@@ -1,4 +1,8 @@
-title: Introducción estadística y ciencia de datos
+title: Ciencia de Datos
 email: aloctavodia@gmail.ocm
-description: Curso introducctorio de ciencia de datos
+description: Curso introducctorio de ciencia de datos y estadística bajo Python
 theme: jekyll-theme-cayman
+
+
+download:
+    source: https://github.com/aloctavodia/intro_ciencia_de_datos/archive/master.zip
