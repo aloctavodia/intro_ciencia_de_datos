@@ -3,4 +3,4 @@ email: aloctavodia@gmail.ocm
 description: Curso introducctorio de estadística y ciencia de datos bajo Python
 theme: jekyll-theme-cayman
 show_downloads: true
-favicon: "./favicon.ico"
+favicon: "imagenes/favicon.ico"
