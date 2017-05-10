@@ -1,7 +1,6 @@
-# Introducción estadística y ciencia de datos
-
-
-intro ciencia de datos
+---
+title: Introducción estadística y ciencia de datos
+---
 
 ## Temas
 
