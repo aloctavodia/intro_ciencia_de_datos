@@ -1,4 +1,4 @@
-Curso introducctorio de estadística y ciencia de datos bajo Python
+Curso introducctorio de estadística y ciencia de datos bajo Python.
 
 
 Este es un curso introductorio para personas sin conocimiento de programación, estadística o machine Learning.
